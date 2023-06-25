@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg{
+  background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png');
+  height:100vh;
+  background-size:cover;
+  width:40vw;
+   padding:10px;
+}
+.f-heading{
+  color:white;
+  font-family:"roboto";
+  font-weight:bold;
+  
+}
+.fav-place-con{
+  background-color:white;
+  border-radius:8px;
+  margin:15px;
+  padding:10px;
+}
+f-place-card-heading{
+  color: color: #0f0e46;
+  font-family:"Roboto";
+  font-size:23px;
+  font-weight: bold;
+}
+.f-place-card-description{
+  color: #6c6b70;
+  font-family: "Roboto";
+  font-size: px;
+}
+.card-image{
+  height:100px;
+  width:80px;
+ }
+
